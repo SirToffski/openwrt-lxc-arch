@@ -1,0 +1,25 @@
+title: Running OpenWrt in an Unprivileged LXC Container on Arch Linux
+description: A step-by-step guide to running OpenWrt as an unprivileged LXC container on Arch Linux, with LAN bridge networking and LuCI access.
+theme: just-the-docs
+
+url: "https://sirtoffski.github.io"
+baseurl: "/openwrt-lxc-arch"
+
+permalink: pretty
+
+aux_links:
+  "View on GitHub":
+    - "https://github.com/sirtoffski/openwrt-lxc-arch"
+
+aux_links_new_tab: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Running OpenWrt in an Unprivileged LXC Container on Arch Linux"
+
+color_scheme: light
+
+heading_anchors: true
+
+nav_enabled: false
